@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -78,6 +77,8 @@
             <input type="date" id="date" name="date" required>
 
             <button type="submit">Register Now</button>
+       
+
         </form>
     </div>
 </body>
